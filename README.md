@@ -3,4 +3,7 @@
 
 # Marvel Cinematic Universe <i>(MCU)</i>
 Visual exploration Gross earning from Phase 1 to Phase 3.  
-Explore [here!](https://public.tableau.com/app/profile/jon.jon.rico.noll/viz/MCU_Viz/MCU_Gross)
+Explore [here!](https://public.tableau.com/app/profile/jon.jon.rico.noll/viz/MCU_Viz/MCU_Gross)  
+
+### Tech Stack Used
+- Tableau
